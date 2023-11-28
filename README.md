@@ -1,6 +1,6 @@
 ## Exercice : "Gestionnaire de Tâches"
 
-### Description du Projet
+### Description du Gestionnaire de Tâches
 Gestionnaire de tâches développé en Node.js. On utilise la programmation orientée objet et les modules pour créer, gérer, et afficher des tâches.
 
 ### Fonctionnalités
